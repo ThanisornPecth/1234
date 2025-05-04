@@ -12,7 +12,7 @@
 import dataset to your Google drive [warning] you must change file path to connect to your google drive
 
 ## Step 2 
-run the code following format
+run the code as following format
 output show: ![image](https://github.com/user-attachments/assets/0e906cce-7764-466e-806d-42f7eeed73c2)
 
 # Run streamlit
