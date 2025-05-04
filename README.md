@@ -9,7 +9,7 @@
 # How to run
 
 ## Step 1
-import dataset to your Google drive
+import dataset to your Google drive [warning] you must change file path to connect to your google drive
 
 ## Step 2 
 run the code following format
