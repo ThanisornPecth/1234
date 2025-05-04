@@ -38,5 +38,10 @@ Clink the link in output
 # Output
 ![image](https://github.com/user-attachments/assets/7706d462-8435-4592-b20f-c9e012545db4)
 
+# Error
+
+If you cannot run stremlit to open website you should go back and run this column again
+
+**!ngrok config add-authtoken 2wQlEIuIdfduPUTTioz0dYYrT1d_3eBwKe7NKT8Spo88bYuLh**
 
 
