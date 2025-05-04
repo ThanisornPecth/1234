@@ -18,7 +18,8 @@ output show: ![image](https://github.com/user-attachments/assets/0e906cce-7764-4
 # Run streamlit
 
 # Step 1
-After you run following the code to collum you must run ## !pip install streamlit pyngrok
+After you run following the code to collum you must run 
+**!pip install streamlit pyngrok**
 
 # Step 2
 Open https://dashboard.ngrok.com/get-started/your-authtoken  this website and login
